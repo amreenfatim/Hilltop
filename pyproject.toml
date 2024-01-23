@@ -1,9 +1,17 @@
 [project]
+<<<<<<< HEAD
 name = "testing_module"
 authors = [
     { name = "amreen", email = "amreen@easycloud.in"}
 ]
 description = "testing the module "
+=======
+name = "products"
+authors = [
+    { name = "amreen", email = "amreen@easycloud.in"}
+]
+description = "products descr"
+>>>>>>> origin/main
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
